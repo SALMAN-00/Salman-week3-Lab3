@@ -1,0 +1,23 @@
+.page1{
+     border-width: 1px;
+     border-color: black;
+     border-style: solid;
+     background-color: lightblue;
+    background-position: 1%;
+    background-attachment: fixed;
+        
+
+    
+
+}
+
+.page2{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: bisque;
+    background-image: url(https://images.pexels.com/photos/931162/pexels-photo-931162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-position: 1%;
+    background-attachment: scroll;
+
+}
